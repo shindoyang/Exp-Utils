@@ -97,7 +97,7 @@
 		<dependency>
 		    <groupId>com.alibaba</groupId>
 		    <artifactId>fastjson</artifactId>
-		    <version>1.2.35</version>
+		    <version>1.2.83</version>
 		</dependency>
         <!--如果在springcloud 项目里面，直接用mail的starter就好-->
         <dependency>
